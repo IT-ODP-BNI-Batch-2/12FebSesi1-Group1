@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ditambahin kata kata
+=======
+ini deta 
+>>>>>>> origin/deta-feature
